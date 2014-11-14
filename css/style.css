@@ -1,0 +1,57 @@
+
+
+
+header{
+	background-color: black;
+	text-align: center;
+	padding: 1.5em 0;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    line-height: 51px;
+    font-size: 70px;
+    text-transform: uppercase;
+    color:white;
+ }
+
+ header h2{
+ 	color:gray;
+ }
+
+main {
+	margin: 1em;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    line-height: 51px;
+    font-size: 46px;
+    text-transform: uppercase;
+    margin: 1em 0 .25em 0;
+ }
+
+ li{
+    font-family: 'Droid Serif', serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 20px;
+    /*line-height: 23px;*/
+    margin: .5em 0 0 0;
+  }
+
+ a {
+ 	text-decoration: none;
+    color:black;
+ }
+
+
+/* main {
+ 	background: url(../img/wood_panel.jpg) no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+ }*/
