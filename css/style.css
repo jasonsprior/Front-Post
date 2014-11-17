@@ -36,7 +36,7 @@ h2 {
  li{
     font-family: 'Droid Serif', serif;
     font-weight: 400;
-    font-style: italic;
+    /*font-style: italic;*/
     font-size: 20px;
     /*line-height: 23px;*/
     margin: .5em 0 0 0;

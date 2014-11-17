@@ -7,28 +7,28 @@ sourceList.soccerNet = {
 	name: "<h2>ESPN Soccernet</h2><ul>",
 	url: "http://www.espnfc.com/rss",
 	divID: "#soccerNet",
-	feedCount: 5
+	feedCount: 10
 }
 
 sourceList.uefa = {
 	name: "<h2>UEFA Champtions League</h2><ul>",
 	url: "http://www.uefa.com/rssfeed/uefachampionsleague/rss.xml",
 	divID: "#uefaChampLeague",
-	feedCount: 5
+	feedCount: 10
 }
 
 sourceList.foxSoccer = {
 	name: "<h2>Fox Soccer</h2><ul>",
 	url: "http://feeds.foxsports.com/feedout/syndicatedContent?categoryId=2662",
 	divID: "#foxSoccer",
-	feedCount: 5
+	feedCount: 10
 }
 
 sourceList.techCrunch = {
 	name:"<h2>Tech Crunch</h2><ul>",
 	url: "http://feeds.feedburner.com/TechCrunch/",
 	divID: "#techCrunch",
-	feedCount: 5
+	feedCount: 10
 }
 
 
