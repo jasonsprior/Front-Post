@@ -24,6 +24,15 @@ main {
 	margin: 1em;
 }
 
+.news > div{
+    width: 48%;
+    float:left;
+}
+
+.news > div:nth-child(odd) {
+    margin-right:4%;
+    }
+
 h2 {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
