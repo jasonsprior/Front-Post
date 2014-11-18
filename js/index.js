@@ -4,7 +4,7 @@
 var sourceList = new Object();
 
 sourceList.soccerNet = {
-	name: "<h2>ESPN Soccernet</h2><ul>",
+	name: "<h2>ESPN FC</h2><ul>",
 	url: "http://www.espnfc.com/rss",
 	divID: "#soccerNet",
 	feedCount: 10
@@ -24,13 +24,34 @@ sourceList.foxSoccer = {
 	feedCount: 10
 }
 
-sourceList.techCrunch = {
-	name:"<h2>Tech Crunch</h2><ul>",
-	url: "http://feeds.feedburner.com/TechCrunch/",
-	divID: "#techCrunch",
+
+sourceList.sbi = {
+	name:"<h2>Soccer By Ives</h2><ul>",
+	url: "http://www.sbisoccer.com/feed",
+	divID: "#sbi",
 	feedCount: 10
 }
 
+sourceList.soccerlens = {
+	name:"<h2>Soccer Lens</h2><ul>",
+	url: "http://feeds.feedburner.com/soccerlens?format=xml",
+	divID: "#soclens",
+	feedCount: 10
+}
+
+sourceList.nbcsoc = {
+	name:"<h2>NBC Pro Soccer Talk</h2><ul>",
+	url: "http://prosoccertalk.nbcsports.com/category/top-posts/feed/",
+	divID: "#nbcsoc",
+	feedCount: 10
+}
+
+sourceList.bpl = {
+	name:"<h2>Premier League</h2><ul>",
+	url: "http://www.premierleague.com/content/premierleague/en-gb/news/newsfeed.rss",
+	divID: "#bpl",
+	feedCount: 10
+}
 
 
 
