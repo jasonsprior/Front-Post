@@ -95,7 +95,7 @@ function getRSS(source){
 	feedpointer.load(function(result) {
 
 		if (!result.error){
-
+			console.log(result);
 			var thefeeds=result.feed.entries;
 
 			for (var i=0; i<thefeeds.length; i++){
